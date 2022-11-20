@@ -1,4 +1,4 @@
-FROM lmscommunity/logitechmediaserver:8.3.0
+FROM lmscommunity/logitechmediaserver:8.4.0
 
 LABEL maintainer "Dschinghis Kahn"
 
